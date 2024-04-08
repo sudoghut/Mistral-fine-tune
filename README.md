@@ -35,3 +35,9 @@ https://neurips.cc/virtual/2023/competition/66594
 ## Mistral source code
 
 https://github.com/mistralai/mistral-src
+
+## A simple guide to local LLM fine-tuning on a Mac with MLX ([Kwok-leong Tang](https://github.com/kltng)'s contribution)
+
+https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/
+
+https://github.com/ml-explore/mlx-examples/blob/main/lora/README.md
