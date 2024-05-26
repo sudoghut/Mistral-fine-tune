@@ -1,3 +1,10 @@
+## Mistral-finetune
+
+mistral-finetune is a light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models. It is based on LoRA, a training paradigm where most weights are frozen and only 1-2% additional weights in the form of low-rank matrix perturbations are trained.
+
+https://github.com/mistralai/mistral-finetune
+
+
 ## SMALLER MODELS CAN PACK A PUNCH IN THE ERA OF LARGE LANGUAGE MODELS
 
 As the pursuit of ever-larger AI models continues, an important question arises - is massive scale the only path forward? Our talk presents a family of models in the 7 to 13 billion parameter range that demonstrate smaller can be mighty if engineered thoughtfully. With innovations in attention and efficiency, these nimble models match or even exceed the performance of prior work with significantly larger parameter counts. Specifically we look at models like Mistral 7B, a recently released model with innovations like grouped-query and sliding window attention. Mistral 7B is more efficient and effective than prior models in the same size regime, but it also beats the previous best 13 billion parameter model on all tests, even matching some 34 billion models in reasoning and math. These efficient designs represent a promising path to optimize large language models for real-world usage. Our talk shares insights from this work that can guide the community to build models balancing performance, efficiency, and scalability. This opens the door to an era of precise and powerful AI that doesn't require a growing number of resources.
