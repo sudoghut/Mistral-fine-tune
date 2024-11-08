@@ -52,3 +52,7 @@ https://github.com/ml-explore/mlx-examples/blob/main/lora/README.md
 ## Litgpt: pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 
 https://github.com/Lightning-AI/litgpt
+
+## QLoRA finetune
+
+https://github.com/geronimi73/qlora-minimal/tree/main
